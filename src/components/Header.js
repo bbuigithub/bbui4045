@@ -10,6 +10,10 @@ function Header() {
         <a href="#skills">Skills</a>
         <a href="#contact">Contact</a>
       </nav>
+      <div className="social-links">
+        <a href="https://github.com/bbuigithub" target="_blank" rel="noopener noreferrer">GitHub</a> | 
+        <a href="https://www.linkedin.com/in/brysonbui/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+      </div>
     </header>
   );
 }
